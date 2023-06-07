@@ -55,6 +55,12 @@ const linksList = [
     caption: 'Home Page',
     icon: 'home',
     route: { path: '/' }
+  },
+  {
+    title: 'Home Router',
+    caption: 'Home Router',
+    icon: 'home',
+    route: { path: '/home' }
   }
 ]
 
